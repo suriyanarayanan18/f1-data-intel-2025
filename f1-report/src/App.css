@@ -1,0 +1,350 @@
+:root {
+  --bg: #070a0f;
+  --bg-soft: #0f1520;
+  --surface: rgba(16, 22, 31, 0.78);
+  --surface-strong: rgba(16, 22, 31, 0.94);
+  --line: rgba(195, 216, 236, 0.18);
+  --line-strong: rgba(195, 216, 236, 0.34);
+  --text: #f2f6fb;
+  --muted: #9db0c3;
+  --accent: #ff6b2b;
+  --accent-soft: #ff996a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  font-family: 'Avenir Next', 'Segoe UI', 'Helvetica Neue', sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at 12% 10%, rgba(255, 107, 43, 0.2), transparent 26%),
+    radial-gradient(circle at 88% 14%, rgba(83, 158, 255, 0.16), transparent 27%),
+    linear-gradient(180deg, #070a0f 0%, #0a111b 60%, #06090f 100%);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.editorial-shell {
+  width: min(1280px, calc(100% - 2.2rem));
+  margin: 0 auto;
+  padding-bottom: 4.5rem;
+}
+
+.sticky-nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  padding: 0.95rem 0;
+  background: linear-gradient(180deg, rgba(6, 9, 14, 0.96) 0%, rgba(6, 9, 14, 0.74) 75%, rgba(6, 9, 14, 0) 100%);
+  backdrop-filter: blur(10px);
+}
+
+.brand-block {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.brand-block p {
+  margin: 0;
+  font-size: 0.76rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #cfdae6;
+}
+
+.brand-block span {
+  color: var(--muted);
+  font-size: 0.74rem;
+}
+
+.chapter-nav {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.chapter-nav a {
+  text-decoration: none;
+  color: #d6e3ef;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  padding: 0.42rem 0.82rem;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  transition: all 140ms ease;
+}
+
+.chapter-nav a:hover {
+  border-color: var(--line);
+  color: #fff;
+}
+
+.chapter-nav a.is-active {
+  border-color: var(--accent);
+  background: rgba(255, 107, 43, 0.16);
+  color: #fff;
+}
+
+.intro-panel {
+  min-height: 80vh;
+  display: grid;
+  align-content: center;
+  gap: 1rem;
+  padding: 5.7rem 0 3.2rem;
+}
+
+.eyebrow {
+  margin: 0;
+  color: var(--accent-soft);
+  letter-spacing: 0.18em;
+  font-size: 0.74rem;
+  text-transform: uppercase;
+}
+
+.intro-panel h1 {
+  margin: 0;
+  max-width: 12ch;
+  font-size: clamp(2.6rem, 8.2vw, 6rem);
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+}
+
+.intro-panel p {
+  margin: 0;
+  max-width: 64ch;
+  color: #d2deea;
+  line-height: 1.72;
+}
+
+.intro-panel button {
+  width: fit-content;
+  border: 1px solid var(--line-strong);
+  background: rgba(11, 17, 25, 0.82);
+  color: #f4f8fc;
+  border-radius: 999px;
+  padding: 0.56rem 1.1rem;
+  cursor: pointer;
+}
+
+.chapter-panel {
+  min-height: 100vh;
+  padding: 5.6rem 0 2.2rem;
+  border-top: 1px solid rgba(195, 216, 236, 0.12);
+  display: grid;
+  gap: 1rem;
+}
+
+.chapter-header {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.chapter-kicker {
+  margin: 0;
+  color: var(--accent-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.72rem;
+}
+
+.chapter-header h2 {
+  margin: 0;
+  font-size: clamp(2rem, 5.2vw, 4.4rem);
+  line-height: 0.97;
+  letter-spacing: -0.025em;
+}
+
+.chapter-header p {
+  margin: 0;
+  max-width: 68ch;
+  color: #cad7e4;
+  line-height: 1.7;
+}
+
+.panel-card {
+  background: linear-gradient(165deg, var(--surface), rgba(8, 13, 20, 0.92));
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 1.1rem;
+  box-shadow: inset 0 0 28px rgba(255, 255, 255, 0.02);
+}
+
+.card-headline {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.85rem;
+}
+
+.card-headline h3 {
+  margin: 0;
+  font-size: clamp(1.05rem, 2.2vw, 1.35rem);
+}
+
+.card-headline span {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.split-headline {
+  align-items: center;
+}
+
+.round-control {
+  display: grid;
+  gap: 0.28rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.round-control select {
+  background: rgba(10, 16, 24, 0.9);
+  color: #e8eff7;
+  border: 1px solid var(--line-strong);
+  border-radius: 10px;
+  padding: 0.42rem 0.58rem;
+  min-width: 230px;
+}
+
+.chart-box {
+  width: 100%;
+  height: 400px;
+}
+
+.heatmap-wrap,
+.table-wrap {
+  overflow-x: auto;
+}
+
+.heatmap-table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: max-content;
+  min-width: 100%;
+  font-size: 0.74rem;
+}
+
+.heatmap-table th,
+.heatmap-table td {
+  border-bottom: 1px solid rgba(195, 216, 236, 0.14);
+  min-width: 2.2rem;
+  height: 2rem;
+  text-align: center;
+  padding: 0.16rem 0.25rem;
+}
+
+.heatmap-table thead th {
+  position: sticky;
+  top: 0;
+  background: var(--surface-strong);
+  color: #bcd0e4;
+  z-index: 1;
+}
+
+.heatmap-table tbody th {
+  position: sticky;
+  left: 0;
+  background: var(--surface-strong);
+  text-align: left;
+  padding-left: 0.62rem;
+  color: #e3ebf4;
+}
+
+.leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 520px;
+}
+
+.leaderboard-table th,
+.leaderboard-table td {
+  padding: 0.74rem 0.56rem;
+  border-bottom: 1px solid rgba(195, 216, 236, 0.16);
+  text-align: left;
+  font-size: 0.84rem;
+}
+
+.leaderboard-table thead th {
+  color: #b8ccdf;
+  font-weight: 500;
+}
+
+.leaderboard-table tbody th,
+.leaderboard-table tbody td {
+  color: #dbe7f2;
+}
+
+.status-card {
+  border: 1px solid var(--line-strong);
+  background: rgba(10, 16, 24, 0.84);
+  border-radius: 14px;
+  padding: 0.92rem;
+  color: #d9e6f2;
+}
+
+.status-error {
+  border-color: rgba(255, 136, 136, 0.5);
+  background: rgba(34, 13, 17, 0.88);
+  color: #ffc6ce;
+}
+
+@media (max-width: 980px) {
+  .editorial-shell {
+    width: min(1280px, calc(100% - 1.1rem));
+  }
+
+  .sticky-nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .chapter-nav {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    width: 100%;
+    padding-bottom: 0.2rem;
+  }
+
+  .chapter-nav a {
+    white-space: nowrap;
+  }
+
+  .intro-panel {
+    min-height: 70vh;
+    padding-top: 4.8rem;
+  }
+
+  .chart-box {
+    height: 340px;
+  }
+}
+
+@media (max-width: 640px) {
+  .chapter-panel {
+    padding-top: 4.5rem;
+  }
+
+  .panel-card {
+    padding: 0.9rem;
+  }
+
+  .round-control select {
+    min-width: 190px;
+  }
+}

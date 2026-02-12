@@ -1,0 +1,2129 @@
+{
+  "records": [
+    {
+      "driver": "NOR",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 75.096,
+      "q3_time": 75.096,
+      "round": 1,
+      "team": "McLaren"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.084,
+      "pole_time": 75.096,
+      "q3_time": 75.18,
+      "round": 1,
+      "team": "McLaren"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.385,
+      "pole_time": 75.096,
+      "q3_time": 75.481,
+      "round": 1,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.45,
+      "pole_time": 75.096,
+      "q3_time": 75.546,
+      "round": 1,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.574,
+      "pole_time": 75.096,
+      "q3_time": 75.67,
+      "round": 1,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.641,
+      "pole_time": 75.096,
+      "q3_time": 75.737,
+      "round": 1,
+      "team": "Williams"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.659,
+      "pole_time": 75.096,
+      "q3_time": 75.755,
+      "round": 1,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.877,
+      "pole_time": 75.096,
+      "q3_time": 75.973,
+      "round": 1,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.884,
+      "pole_time": 75.096,
+      "q3_time": 75.98,
+      "round": 1,
+      "team": "Alpine"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Australian Grand Prix",
+      "gap_to_pole_sec": 0.966,
+      "pole_time": 75.096,
+      "q3_time": 76.062,
+      "round": 1,
+      "team": "Williams"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 90.641,
+      "q3_time": 90.641,
+      "round": 2,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.082,
+      "pole_time": 90.641,
+      "q3_time": 90.723,
+      "round": 2,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.152,
+      "pole_time": 90.641,
+      "q3_time": 90.793,
+      "round": 2,
+      "team": "McLaren"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.176,
+      "pole_time": 90.641,
+      "q3_time": 90.817,
+      "round": 2,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.286,
+      "pole_time": 90.641,
+      "q3_time": 90.927,
+      "round": 2,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.38,
+      "pole_time": 90.641,
+      "q3_time": 91.021,
+      "round": 2,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.438,
+      "pole_time": 90.641,
+      "q3_time": 91.079,
+      "round": 2,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.462,
+      "pole_time": 90.641,
+      "q3_time": 91.103,
+      "round": 2,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 0.997,
+      "pole_time": 90.641,
+      "q3_time": 91.638,
+      "round": 2,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Chinese Grand Prix",
+      "gap_to_pole_sec": 1.065,
+      "pole_time": 90.641,
+      "q3_time": 91.706,
+      "round": 2,
+      "team": "Williams"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 86.983,
+      "q3_time": 86.983,
+      "round": 3,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.012,
+      "pole_time": 86.983,
+      "q3_time": 86.995,
+      "round": 3,
+      "team": "McLaren"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.044,
+      "pole_time": 86.983,
+      "q3_time": 87.027,
+      "round": 3,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.316,
+      "pole_time": 86.983,
+      "q3_time": 87.299,
+      "round": 3,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.335,
+      "pole_time": 86.983,
+      "q3_time": 87.318,
+      "round": 3,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.572,
+      "pole_time": 86.983,
+      "q3_time": 87.555,
+      "round": 3,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.586,
+      "pole_time": 86.983,
+      "q3_time": 87.569,
+      "round": 3,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.627,
+      "pole_time": 86.983,
+      "q3_time": 87.61,
+      "round": 3,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.632,
+      "pole_time": 86.983,
+      "q3_time": 87.615,
+      "round": 3,
+      "team": "Williams"
+    },
+    {
+      "driver": "BEA",
+      "event_name": "Japanese Grand Prix",
+      "gap_to_pole_sec": 0.884,
+      "pole_time": 86.983,
+      "q3_time": 87.867,
+      "round": 3,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 89.841,
+      "q3_time": 89.841,
+      "round": 4,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.168,
+      "pole_time": 89.841,
+      "q3_time": 90.009,
+      "round": 4,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.334,
+      "pole_time": 89.841,
+      "q3_time": 90.175,
+      "round": 4,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.372,
+      "pole_time": 89.841,
+      "q3_time": 90.213,
+      "round": 4,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.375,
+      "pole_time": 89.841,
+      "q3_time": 90.216,
+      "round": 4,
+      "team": "Alpine"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.426,
+      "pole_time": 89.841,
+      "q3_time": 90.267,
+      "round": 4,
+      "team": "McLaren"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.582,
+      "pole_time": 89.841,
+      "q3_time": 90.423,
+      "round": 4,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.839,
+      "pole_time": 89.841,
+      "q3_time": 90.68,
+      "round": 4,
+      "team": "Williams"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 0.931,
+      "pole_time": 89.841,
+      "q3_time": 90.772,
+      "round": 4,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Bahrain Grand Prix",
+      "gap_to_pole_sec": 1.462,
+      "pole_time": 89.841,
+      "q3_time": 91.303,
+      "round": 4,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 87.294,
+      "q3_time": 87.294,
+      "round": 5,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.01,
+      "pole_time": 87.294,
+      "q3_time": 87.304,
+      "round": 5,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.113,
+      "pole_time": 87.294,
+      "q3_time": 87.407,
+      "round": 5,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.376,
+      "pole_time": 87.294,
+      "q3_time": 87.67,
+      "round": 5,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.572,
+      "pole_time": 87.294,
+      "q3_time": 87.866,
+      "round": 5,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.87,
+      "pole_time": 87.294,
+      "q3_time": 88.164,
+      "round": 5,
+      "team": "Williams"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.907,
+      "pole_time": 87.294,
+      "q3_time": 88.201,
+      "round": 5,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 0.91,
+      "pole_time": 87.294,
+      "q3_time": 88.204,
+      "round": 5,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Saudi Arabian Grand Prix",
+      "gap_to_pole_sec": 1.073,
+      "pole_time": 87.294,
+      "q3_time": 88.367,
+      "round": 5,
+      "team": "Alpine"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 86.204,
+      "q3_time": 86.204,
+      "round": 6,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.065,
+      "pole_time": 86.204,
+      "q3_time": 86.269,
+      "round": 6,
+      "team": "McLaren"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.067,
+      "pole_time": 86.204,
+      "q3_time": 86.271,
+      "round": 6,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.171,
+      "pole_time": 86.204,
+      "q3_time": 86.375,
+      "round": 6,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.181,
+      "pole_time": 86.204,
+      "q3_time": 86.385,
+      "round": 6,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.365,
+      "pole_time": 86.204,
+      "q3_time": 86.569,
+      "round": 6,
+      "team": "Williams"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.478,
+      "pole_time": 86.204,
+      "q3_time": 86.682,
+      "round": 6,
+      "team": "Williams"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.55,
+      "pole_time": 86.204,
+      "q3_time": 86.754,
+      "round": 6,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "OCO",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.62,
+      "pole_time": 86.204,
+      "q3_time": 86.824,
+      "round": 6,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Miami Grand Prix",
+      "gap_to_pole_sec": 0.739,
+      "pole_time": 86.204,
+      "q3_time": 86.943,
+      "round": 6,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 74.67,
+      "q3_time": 74.67,
+      "round": 7,
+      "team": "McLaren"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.034,
+      "pole_time": 74.67,
+      "q3_time": 74.704,
+      "round": 7,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.137,
+      "pole_time": 74.67,
+      "q3_time": 74.807,
+      "round": 7,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.292,
+      "pole_time": 74.67,
+      "q3_time": 74.962,
+      "round": 7,
+      "team": "McLaren"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.761,
+      "pole_time": 74.67,
+      "q3_time": 75.431,
+      "round": 7,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.762,
+      "pole_time": 74.67,
+      "q3_time": 75.432,
+      "round": 7,
+      "team": "Williams"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.803,
+      "pole_time": 74.67,
+      "q3_time": 75.473,
+      "round": 7,
+      "team": "Williams"
+    },
+    {
+      "driver": "STR",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 0.911,
+      "pole_time": 74.67,
+      "q3_time": 75.581,
+      "round": 7,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 1.076,
+      "pole_time": 74.67,
+      "q3_time": 75.746,
+      "round": 7,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Emilia Romagna Grand Prix",
+      "gap_to_pole_sec": 1.117,
+      "pole_time": 74.67,
+      "q3_time": 75.787,
+      "round": 7,
+      "team": "Alpine"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 69.954,
+      "q3_time": 69.954,
+      "round": 8,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.109,
+      "pole_time": 69.954,
+      "q3_time": 70.063,
+      "round": 8,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.175,
+      "pole_time": 69.954,
+      "q3_time": 70.129,
+      "round": 8,
+      "team": "McLaren"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.428,
+      "pole_time": 69.954,
+      "q3_time": 70.382,
+      "round": 8,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.715,
+      "pole_time": 69.954,
+      "q3_time": 70.669,
+      "round": 8,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.969,
+      "pole_time": 69.954,
+      "q3_time": 70.923,
+      "round": 8,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.97,
+      "pole_time": 69.954,
+      "q3_time": 70.924,
+      "round": 8,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "OCO",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 0.988,
+      "pole_time": 69.954,
+      "q3_time": 70.942,
+      "round": 8,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 1.175,
+      "pole_time": 69.954,
+      "q3_time": 71.129,
+      "round": 8,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Monaco Grand Prix",
+      "gap_to_pole_sec": 1.259,
+      "pole_time": 69.954,
+      "q3_time": 71.213,
+      "round": 8,
+      "team": "Williams"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 71.546,
+      "q3_time": 71.546,
+      "round": 9,
+      "team": "McLaren"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.209,
+      "pole_time": 71.546,
+      "q3_time": 71.755,
+      "round": 9,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.302,
+      "pole_time": 71.546,
+      "q3_time": 71.848,
+      "round": 9,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.302,
+      "pole_time": 71.546,
+      "q3_time": 71.848,
+      "round": 9,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.499,
+      "pole_time": 71.546,
+      "q3_time": 72.045,
+      "round": 9,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.565,
+      "pole_time": 71.546,
+      "q3_time": 72.111,
+      "round": 9,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.585,
+      "pole_time": 71.546,
+      "q3_time": 72.131,
+      "round": 9,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.653,
+      "pole_time": 71.546,
+      "q3_time": 72.199,
+      "round": 9,
+      "team": "Alpine"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.706,
+      "pole_time": 71.546,
+      "q3_time": 72.252,
+      "round": 9,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Spanish Grand Prix",
+      "gap_to_pole_sec": 0.738,
+      "pole_time": 71.546,
+      "q3_time": 72.284,
+      "round": 9,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 70.899,
+      "q3_time": 70.899,
+      "round": 10,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.16,
+      "pole_time": 70.899,
+      "q3_time": 71.059,
+      "round": 10,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.221,
+      "pole_time": 70.899,
+      "q3_time": 71.12,
+      "round": 10,
+      "team": "McLaren"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.492,
+      "pole_time": 70.899,
+      "q3_time": 71.391,
+      "round": 10,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.627,
+      "pole_time": 70.899,
+      "q3_time": 71.526,
+      "round": 10,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.687,
+      "pole_time": 70.899,
+      "q3_time": 71.586,
+      "round": 10,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.726,
+      "pole_time": 70.899,
+      "q3_time": 71.625,
+      "round": 10,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.783,
+      "pole_time": 70.899,
+      "q3_time": 71.682,
+      "round": 10,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 0.968,
+      "pole_time": 70.899,
+      "q3_time": 71.867,
+      "round": 10,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Canadian Grand Prix",
+      "gap_to_pole_sec": 1.008,
+      "pole_time": 70.899,
+      "q3_time": 71.907,
+      "round": 10,
+      "team": "Williams"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 63.971,
+      "q3_time": 63.971,
+      "round": 11,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 0.521,
+      "pole_time": 63.971,
+      "q3_time": 64.492,
+      "round": 11,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 0.583,
+      "pole_time": 63.971,
+      "q3_time": 64.554,
+      "round": 11,
+      "team": "McLaren"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 0.611,
+      "pole_time": 63.971,
+      "q3_time": 64.582,
+      "round": 11,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 0.792,
+      "pole_time": 63.971,
+      "q3_time": 64.763,
+      "round": 11,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 0.955,
+      "pole_time": 63.971,
+      "q3_time": 64.926,
+      "round": 11,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 0.958,
+      "pole_time": 63.971,
+      "q3_time": 64.929,
+      "round": 11,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "BOR",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 1.161,
+      "pole_time": 63.971,
+      "q3_time": 65.132,
+      "round": 11,
+      "team": "Kick Sauber"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 1.305,
+      "pole_time": 63.971,
+      "q3_time": 65.276,
+      "round": 11,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Austrian Grand Prix",
+      "gap_to_pole_sec": 1.678,
+      "pole_time": 63.971,
+      "q3_time": 65.649,
+      "round": 11,
+      "team": "Alpine"
+    },
+    {
+      "driver": "VER",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 84.892,
+      "q3_time": 84.892,
+      "round": 12,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.103,
+      "pole_time": 84.892,
+      "q3_time": 84.995,
+      "round": 12,
+      "team": "McLaren"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.118,
+      "pole_time": 84.892,
+      "q3_time": 85.01,
+      "round": 12,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.137,
+      "pole_time": 84.892,
+      "q3_time": 85.029,
+      "round": 12,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.203,
+      "pole_time": 84.892,
+      "q3_time": 85.095,
+      "round": 12,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.229,
+      "pole_time": 84.892,
+      "q3_time": 85.121,
+      "round": 12,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.482,
+      "pole_time": 84.892,
+      "q3_time": 85.374,
+      "round": 12,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "BEA",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.579,
+      "pole_time": 84.892,
+      "q3_time": 85.471,
+      "round": 12,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.729,
+      "pole_time": 84.892,
+      "q3_time": 85.621,
+      "round": 12,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "British Grand Prix",
+      "gap_to_pole_sec": 0.893,
+      "pole_time": 84.892,
+      "q3_time": 85.785,
+      "round": 12,
+      "team": "Alpine"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 100.562,
+      "q3_time": 100.562,
+      "round": 13,
+      "team": "McLaren"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.085,
+      "pole_time": 100.562,
+      "q3_time": 100.647,
+      "round": 13,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.338,
+      "pole_time": 100.562,
+      "q3_time": 100.9,
+      "round": 13,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.341,
+      "pole_time": 100.562,
+      "q3_time": 100.903,
+      "round": 13,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "ALB",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.639,
+      "pole_time": 100.562,
+      "q3_time": 101.201,
+      "round": 13,
+      "team": "Williams"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.698,
+      "pole_time": 100.562,
+      "q3_time": 101.26,
+      "round": 13,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.722,
+      "pole_time": 100.562,
+      "q3_time": 101.284,
+      "round": 13,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.748,
+      "pole_time": 100.562,
+      "q3_time": 101.31,
+      "round": 13,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 0.766,
+      "pole_time": 100.562,
+      "q3_time": 101.328,
+      "round": 13,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "BOR",
+      "event_name": "Belgian Grand Prix",
+      "gap_to_pole_sec": 1.825,
+      "pole_time": 100.562,
+      "q3_time": 102.387,
+      "round": 13,
+      "team": "Kick Sauber"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 75.372,
+      "q3_time": 75.372,
+      "round": 14,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.026,
+      "pole_time": 75.372,
+      "q3_time": 75.398,
+      "round": 14,
+      "team": "McLaren"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.041,
+      "pole_time": 75.372,
+      "q3_time": 75.413,
+      "round": 14,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.053,
+      "pole_time": 75.372,
+      "q3_time": 75.425,
+      "round": 14,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.109,
+      "pole_time": 75.372,
+      "q3_time": 75.481,
+      "round": 14,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "STR",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.126,
+      "pole_time": 75.372,
+      "q3_time": 75.498,
+      "round": 14,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "BOR",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.353,
+      "pole_time": 75.372,
+      "q3_time": 75.725,
+      "round": 14,
+      "team": "Kick Sauber"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.356,
+      "pole_time": 75.372,
+      "q3_time": 75.728,
+      "round": 14,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.449,
+      "pole_time": 75.372,
+      "q3_time": 75.821,
+      "round": 14,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Hungarian Grand Prix",
+      "gap_to_pole_sec": 0.543,
+      "pole_time": 75.372,
+      "q3_time": 75.915,
+      "round": 14,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 68.662,
+      "q3_time": 68.662,
+      "round": 15,
+      "team": "McLaren"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.012,
+      "pole_time": 68.662,
+      "q3_time": 68.674,
+      "round": 15,
+      "team": "McLaren"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.263,
+      "pole_time": 68.662,
+      "q3_time": 68.925,
+      "round": 15,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.546,
+      "pole_time": 68.662,
+      "q3_time": 69.208,
+      "round": 15,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.593,
+      "pole_time": 68.662,
+      "q3_time": 69.255,
+      "round": 15,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.678,
+      "pole_time": 68.662,
+      "q3_time": 69.34,
+      "round": 15,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.728,
+      "pole_time": 68.662,
+      "q3_time": 69.39,
+      "round": 15,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.838,
+      "pole_time": 68.662,
+      "q3_time": 69.5,
+      "round": 15,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.843,
+      "pole_time": 68.662,
+      "q3_time": 69.505,
+      "round": 15,
+      "team": "Williams"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Dutch Grand Prix",
+      "gap_to_pole_sec": 0.968,
+      "pole_time": 68.662,
+      "q3_time": 69.63,
+      "round": 15,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 78.792,
+      "q3_time": 78.792,
+      "round": 16,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.077,
+      "pole_time": 78.792,
+      "q3_time": 78.869,
+      "round": 16,
+      "team": "McLaren"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.19,
+      "pole_time": 78.792,
+      "q3_time": 78.982,
+      "round": 16,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.215,
+      "pole_time": 78.792,
+      "q3_time": 79.007,
+      "round": 16,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.332,
+      "pole_time": 78.792,
+      "q3_time": 79.124,
+      "round": 16,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.365,
+      "pole_time": 78.792,
+      "q3_time": 79.157,
+      "round": 16,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.408,
+      "pole_time": 78.792,
+      "q3_time": 79.2,
+      "round": 16,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "BOR",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.598,
+      "pole_time": 78.792,
+      "q3_time": 79.39,
+      "round": 16,
+      "team": "Kick Sauber"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.632,
+      "pole_time": 78.792,
+      "q3_time": 79.424,
+      "round": 16,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Italian Grand Prix",
+      "gap_to_pole_sec": 0.727,
+      "pole_time": 78.792,
+      "q3_time": 79.519,
+      "round": 16,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 101.117,
+      "q3_time": 101.117,
+      "round": 17,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 0.478,
+      "pole_time": 101.117,
+      "q3_time": 101.595,
+      "round": 17,
+      "team": "Williams"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 0.59,
+      "pole_time": 101.117,
+      "q3_time": 101.707,
+      "round": 17,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 0.6,
+      "pole_time": 101.117,
+      "q3_time": 101.717,
+      "round": 17,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 0.953,
+      "pole_time": 101.117,
+      "q3_time": 102.07,
+      "round": 17,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "TSU",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 1.026,
+      "pole_time": 101.117,
+      "q3_time": 102.143,
+      "round": 17,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 1.122,
+      "pole_time": 101.117,
+      "q3_time": 102.239,
+      "round": 17,
+      "team": "McLaren"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Azerbaijan Grand Prix",
+      "gap_to_pole_sec": 1.255,
+      "pole_time": 101.117,
+      "q3_time": 102.372,
+      "round": 17,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 89.158,
+      "q3_time": 89.158,
+      "round": 18,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.182,
+      "pole_time": 89.158,
+      "q3_time": 89.34,
+      "round": 18,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.366,
+      "pole_time": 89.158,
+      "q3_time": 89.524,
+      "round": 18,
+      "team": "McLaren"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.379,
+      "pole_time": 89.158,
+      "q3_time": 89.537,
+      "round": 18,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.428,
+      "pole_time": 89.158,
+      "q3_time": 89.586,
+      "round": 18,
+      "team": "McLaren"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.53,
+      "pole_time": 89.158,
+      "q3_time": 89.688,
+      "round": 18,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.626,
+      "pole_time": 89.158,
+      "q3_time": 89.784,
+      "round": 18,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.688,
+      "pole_time": 89.158,
+      "q3_time": 89.846,
+      "round": 18,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "BEA",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.71,
+      "pole_time": 89.158,
+      "q3_time": 89.868,
+      "round": 18,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Singapore Grand Prix",
+      "gap_to_pole_sec": 0.797,
+      "pole_time": 89.158,
+      "q3_time": 89.955,
+      "round": 18,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "VER",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 92.51,
+      "q3_time": 92.51,
+      "round": 19,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.291,
+      "pole_time": 92.51,
+      "q3_time": 92.801,
+      "round": 19,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.297,
+      "pole_time": 92.51,
+      "q3_time": 92.807,
+      "round": 19,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.316,
+      "pole_time": 92.51,
+      "q3_time": 92.826,
+      "round": 19,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.402,
+      "pole_time": 92.51,
+      "q3_time": 92.912,
+      "round": 19,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.574,
+      "pole_time": 92.51,
+      "q3_time": 93.084,
+      "round": 19,
+      "team": "McLaren"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.604,
+      "pole_time": 92.51,
+      "q3_time": 93.114,
+      "round": 19,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "BEA",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.629,
+      "pole_time": 92.51,
+      "q3_time": 93.139,
+      "round": 19,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.64,
+      "pole_time": 92.51,
+      "q3_time": 93.15,
+      "round": 19,
+      "team": "Williams"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "United States Grand Prix",
+      "gap_to_pole_sec": 0.65,
+      "pole_time": 92.51,
+      "q3_time": 93.16,
+      "round": 19,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 75.586,
+      "q3_time": 75.586,
+      "round": 20,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.262,
+      "pole_time": 75.586,
+      "q3_time": 75.848,
+      "round": 20,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "HAM",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.352,
+      "pole_time": 75.586,
+      "q3_time": 75.938,
+      "round": 20,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.448,
+      "pole_time": 75.586,
+      "q3_time": 76.034,
+      "round": 20,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.484,
+      "pole_time": 75.586,
+      "q3_time": 76.07,
+      "round": 20,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.532,
+      "pole_time": 75.586,
+      "q3_time": 76.118,
+      "round": 20,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.586,
+      "pole_time": 75.586,
+      "q3_time": 76.172,
+      "round": 20,
+      "team": "Williams"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.588,
+      "pole_time": 75.586,
+      "q3_time": 76.174,
+      "round": 20,
+      "team": "McLaren"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.666,
+      "pole_time": 75.586,
+      "q3_time": 76.252,
+      "round": 20,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "BEA",
+      "event_name": "Mexico City Grand Prix",
+      "gap_to_pole_sec": 0.874,
+      "pole_time": 75.586,
+      "q3_time": 76.46,
+      "round": 20,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 69.511,
+      "q3_time": 69.511,
+      "round": 21,
+      "team": "McLaren"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.174,
+      "pole_time": 69.511,
+      "q3_time": 69.685,
+      "round": 21,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.294,
+      "pole_time": 69.511,
+      "q3_time": 69.805,
+      "round": 21,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.375,
+      "pole_time": 69.511,
+      "q3_time": 69.886,
+      "round": 21,
+      "team": "McLaren"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.42,
+      "pole_time": 69.511,
+      "q3_time": 69.931,
+      "round": 21,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.431,
+      "pole_time": 69.511,
+      "q3_time": 69.942,
+      "round": 21,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.451,
+      "pole_time": 69.511,
+      "q3_time": 69.962,
+      "round": 21,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "BEA",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.466,
+      "pole_time": 69.511,
+      "q3_time": 69.977,
+      "round": 21,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.491,
+      "pole_time": 69.511,
+      "q3_time": 70.002,
+      "round": 21,
+      "team": "Alpine"
+    },
+    {
+      "driver": "HUL",
+      "event_name": "S\u00e3o Paulo Grand Prix",
+      "gap_to_pole_sec": 0.528,
+      "pole_time": 69.511,
+      "q3_time": 70.039,
+      "round": 21,
+      "team": "Kick Sauber"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 107.934,
+      "q3_time": 107.934,
+      "round": 22,
+      "team": "McLaren"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 0.323,
+      "pole_time": 107.934,
+      "q3_time": 108.257,
+      "round": 22,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 0.362,
+      "pole_time": 107.934,
+      "q3_time": 108.296,
+      "round": 22,
+      "team": "Williams"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 0.869,
+      "pole_time": 107.934,
+      "q3_time": 108.803,
+      "round": 22,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 1.027,
+      "pole_time": 107.934,
+      "q3_time": 108.961,
+      "round": 22,
+      "team": "McLaren"
+    },
+    {
+      "driver": "LAW",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 1.128,
+      "pole_time": 107.934,
+      "q3_time": 109.062,
+      "round": 22,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 1.532,
+      "pole_time": 107.934,
+      "q3_time": 109.466,
+      "round": 22,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 1.62,
+      "pole_time": 107.934,
+      "q3_time": 109.554,
+      "round": 22,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 1.938,
+      "pole_time": 107.934,
+      "q3_time": 109.872,
+      "round": 22,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Las Vegas Grand Prix",
+      "gap_to_pole_sec": 3.606,
+      "pole_time": 107.934,
+      "q3_time": 111.54,
+      "round": 22,
+      "team": "Alpine"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 79.387,
+      "q3_time": 79.387,
+      "round": 23,
+      "team": "McLaren"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 0.108,
+      "pole_time": 79.387,
+      "q3_time": 79.495,
+      "round": 23,
+      "team": "McLaren"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 0.264,
+      "pole_time": 79.387,
+      "q3_time": 79.651,
+      "round": 23,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 0.275,
+      "pole_time": 79.387,
+      "q3_time": 79.662,
+      "round": 23,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "ANT",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 0.459,
+      "pole_time": 79.387,
+      "q3_time": 79.846,
+      "round": 23,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 0.727,
+      "pole_time": 79.387,
+      "q3_time": 80.114,
+      "round": 23,
+      "team": "Racing Bulls"
+    },
+    {
+      "driver": "SAI",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 0.9,
+      "pole_time": 79.387,
+      "q3_time": 80.287,
+      "round": 23,
+      "team": "Williams"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 1.031,
+      "pole_time": 79.387,
+      "q3_time": 80.418,
+      "round": 23,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "GAS",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 1.09,
+      "pole_time": 79.387,
+      "q3_time": 80.477,
+      "round": 23,
+      "team": "Alpine"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Qatar Grand Prix",
+      "gap_to_pole_sec": 1.174,
+      "pole_time": 79.387,
+      "q3_time": 80.561,
+      "round": 23,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "VER",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.0,
+      "pole_time": 82.207,
+      "q3_time": 82.207,
+      "round": 24,
+      "team": "Red Bull Racing"
+    },
+    {
+      "driver": "NOR",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.201,
+      "pole_time": 82.207,
+      "q3_time": 82.408,
+      "round": 24,
+      "team": "McLaren"
+    },
+    {
+      "driver": "PIA",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.23,
+      "pole_time": 82.207,
+      "q3_time": 82.437,
+      "round": 24,
+      "team": "McLaren"
+    },
+    {
+      "driver": "RUS",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.438,
+      "pole_time": 82.207,
+      "q3_time": 82.645,
+      "round": 24,
+      "team": "Mercedes"
+    },
+    {
+      "driver": "LEC",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.523,
+      "pole_time": 82.207,
+      "q3_time": 82.73,
+      "round": 24,
+      "team": "Ferrari"
+    },
+    {
+      "driver": "ALO",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.695,
+      "pole_time": 82.207,
+      "q3_time": 82.902,
+      "round": 24,
+      "team": "Aston Martin"
+    },
+    {
+      "driver": "BOR",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.697,
+      "pole_time": 82.207,
+      "q3_time": 82.904,
+      "round": 24,
+      "team": "Kick Sauber"
+    },
+    {
+      "driver": "OCO",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.706,
+      "pole_time": 82.207,
+      "q3_time": 82.913,
+      "round": 24,
+      "team": "Haas F1 Team"
+    },
+    {
+      "driver": "HAD",
+      "event_name": "Abu Dhabi Grand Prix",
+      "gap_to_pole_sec": 0.865,
+      "pole_time": 82.207,
+      "q3_time": 83.072,
+      "round": 24,
+      "team": "Racing Bulls"
+    }
+  ],
+  "year": 2025
+}

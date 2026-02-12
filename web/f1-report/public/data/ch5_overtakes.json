@@ -1,0 +1,546 @@
+{
+  "races": [
+    {
+      "round": 1,
+      "event": "Australian Grand Prix",
+      "date": "2025-03-16",
+      "session_key": 9693,
+      "total_overtakes": 168,
+      "pass_rate": 0.18123,
+      "drs_share": null,
+      "processional_index": 88
+    },
+    {
+      "round": 2,
+      "event": "Chinese Grand Prix",
+      "date": "2025-03-23",
+      "session_key": 9998,
+      "total_overtakes": 222,
+      "pass_rate": 0.20845,
+      "drs_share": null,
+      "processional_index": 82
+    },
+    {
+      "round": 3,
+      "event": "Japanese Grand Prix",
+      "date": "2025-04-06",
+      "session_key": 10006,
+      "total_overtakes": 136,
+      "pass_rate": 0.12842,
+      "drs_share": null,
+      "processional_index": 100
+    },
+    {
+      "round": 4,
+      "event": "Bahrain Grand Prix",
+      "date": "2025-04-13",
+      "session_key": 10014,
+      "total_overtakes": 650,
+      "pass_rate": 0.57624,
+      "drs_share": null,
+      "processional_index": 0
+    },
+    {
+      "round": 5,
+      "event": "Saudi Arabian Grand Prix",
+      "date": "2025-04-20",
+      "session_key": 10022,
+      "total_overtakes": 154,
+      "pass_rate": 0.17149,
+      "drs_share": null,
+      "processional_index": 90
+    },
+    {
+      "round": 6,
+      "event": "Miami Grand Prix",
+      "date": "2025-05-04",
+      "session_key": 10033,
+      "total_overtakes": 130,
+      "pass_rate": 0.12935,
+      "drs_share": null,
+      "processional_index": 100
+    },
+    {
+      "round": 7,
+      "event": "Emilia Romagna Grand Prix",
+      "date": "2025-05-18",
+      "session_key": 9987,
+      "total_overtakes": 232,
+      "pass_rate": 0.19221,
+      "drs_share": null,
+      "processional_index": 86
+    },
+    {
+      "round": 8,
+      "event": "Monaco Grand Prix",
+      "date": "2025-05-25",
+      "session_key": 9979,
+      "total_overtakes": 188,
+      "pass_rate": 0.13193,
+      "drs_share": null,
+      "processional_index": 99
+    },
+    {
+      "round": 9,
+      "event": "Spanish Grand Prix",
+      "date": "2025-06-01",
+      "session_key": 9971,
+      "total_overtakes": 270,
+      "pass_rate": 0.22444,
+      "drs_share": null,
+      "processional_index": 79
+    },
+    {
+      "round": 10,
+      "event": "Canadian Grand Prix",
+      "date": "2025-06-15",
+      "session_key": 9963,
+      "total_overtakes": 257,
+      "pass_rate": 0.19051,
+      "drs_share": null,
+      "processional_index": 86
+    },
+    {
+      "round": 11,
+      "event": "Austrian Grand Prix",
+      "date": "2025-06-29",
+      "session_key": 9955,
+      "total_overtakes": 250,
+      "pass_rate": 0.22183,
+      "drs_share": null,
+      "processional_index": 79
+    },
+    {
+      "round": 12,
+      "event": "British Grand Prix",
+      "date": "2025-07-06",
+      "session_key": 9947,
+      "total_overtakes": 287,
+      "pass_rate": 0.34746,
+      "drs_share": null,
+      "processional_index": 51
+    },
+    {
+      "round": 13,
+      "event": "Belgian Grand Prix",
+      "date": "2025-07-27",
+      "session_key": 9939,
+      "total_overtakes": 125,
+      "pass_rate": 0.14221,
+      "drs_share": null,
+      "processional_index": 97
+    },
+    {
+      "round": 14,
+      "event": "Hungarian Grand Prix",
+      "date": "2025-08-03",
+      "session_key": 9928,
+      "total_overtakes": 224,
+      "pass_rate": 0.16374,
+      "drs_share": null,
+      "processional_index": 92
+    },
+    {
+      "round": 15,
+      "event": "Dutch Grand Prix",
+      "date": "2025-08-31",
+      "session_key": 9920,
+      "total_overtakes": 233,
+      "pass_rate": 0.17082,
+      "drs_share": null,
+      "processional_index": 91
+    },
+    {
+      "round": 16,
+      "event": "Italian Grand Prix",
+      "date": "2025-09-07",
+      "session_key": 9912,
+      "total_overtakes": 193,
+      "pass_rate": 0.19795,
+      "drs_share": null,
+      "processional_index": 84
+    },
+    {
+      "round": 17,
+      "event": "Azerbaijan Grand Prix",
+      "date": "2025-09-21",
+      "session_key": 9904,
+      "total_overtakes": 155,
+      "pass_rate": 0.16012,
+      "drs_share": null,
+      "processional_index": 93
+    },
+    {
+      "round": 18,
+      "event": "Singapore Grand Prix",
+      "date": "2025-10-05",
+      "session_key": 9896,
+      "total_overtakes": 217,
+      "pass_rate": 0.17657,
+      "drs_share": null,
+      "processional_index": 89
+    },
+    {
+      "round": 19,
+      "event": "United States Grand Prix",
+      "date": "2025-10-19",
+      "session_key": 9888,
+      "total_overtakes": 176,
+      "pass_rate": 0.16495,
+      "drs_share": null,
+      "processional_index": 92
+    },
+    {
+      "round": 20,
+      "event": "Mexico City Grand Prix",
+      "date": "2025-10-26",
+      "session_key": 9877,
+      "total_overtakes": 306,
+      "pass_rate": 0.24228,
+      "drs_share": null,
+      "processional_index": 75
+    },
+    {
+      "round": 21,
+      "event": "S\u00e3o Paulo Grand Prix",
+      "date": "2025-11-09",
+      "session_key": 9869,
+      "total_overtakes": 382,
+      "pass_rate": 0.30536,
+      "drs_share": null,
+      "processional_index": 60
+    },
+    {
+      "round": 22,
+      "event": "Las Vegas Grand Prix",
+      "date": "2025-11-22",
+      "session_key": 9858,
+      "total_overtakes": 154,
+      "pass_rate": 0.17381,
+      "drs_share": null,
+      "processional_index": 90
+    },
+    {
+      "round": 23,
+      "event": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "session_key": 9850,
+      "total_overtakes": 270,
+      "pass_rate": 0.25305,
+      "drs_share": null,
+      "processional_index": 72
+    },
+    {
+      "round": 24,
+      "event": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "session_key": 9839,
+      "total_overtakes": 331,
+      "pass_rate": 0.28633,
+      "drs_share": null,
+      "processional_index": 65
+    }
+  ],
+  "circuit_index": [
+    {
+      "event": "Japanese Grand Prix",
+      "round": 3,
+      "processional_index": 100,
+      "pass_rate": 0.12842,
+      "total_overtakes": 136
+    },
+    {
+      "event": "Miami Grand Prix",
+      "round": 6,
+      "processional_index": 100,
+      "pass_rate": 0.12935,
+      "total_overtakes": 130
+    },
+    {
+      "event": "Monaco Grand Prix",
+      "round": 8,
+      "processional_index": 99,
+      "pass_rate": 0.13193,
+      "total_overtakes": 188
+    },
+    {
+      "event": "Belgian Grand Prix",
+      "round": 13,
+      "processional_index": 97,
+      "pass_rate": 0.14221,
+      "total_overtakes": 125
+    },
+    {
+      "event": "Azerbaijan Grand Prix",
+      "round": 17,
+      "processional_index": 93,
+      "pass_rate": 0.16012,
+      "total_overtakes": 155
+    },
+    {
+      "event": "Hungarian Grand Prix",
+      "round": 14,
+      "processional_index": 92,
+      "pass_rate": 0.16374,
+      "total_overtakes": 224
+    },
+    {
+      "event": "United States Grand Prix",
+      "round": 19,
+      "processional_index": 92,
+      "pass_rate": 0.16495,
+      "total_overtakes": 176
+    },
+    {
+      "event": "Dutch Grand Prix",
+      "round": 15,
+      "processional_index": 91,
+      "pass_rate": 0.17082,
+      "total_overtakes": 233
+    },
+    {
+      "event": "Saudi Arabian Grand Prix",
+      "round": 5,
+      "processional_index": 90,
+      "pass_rate": 0.17149,
+      "total_overtakes": 154
+    },
+    {
+      "event": "Las Vegas Grand Prix",
+      "round": 22,
+      "processional_index": 90,
+      "pass_rate": 0.17381,
+      "total_overtakes": 154
+    },
+    {
+      "event": "Singapore Grand Prix",
+      "round": 18,
+      "processional_index": 89,
+      "pass_rate": 0.17657,
+      "total_overtakes": 217
+    },
+    {
+      "event": "Australian Grand Prix",
+      "round": 1,
+      "processional_index": 88,
+      "pass_rate": 0.18123,
+      "total_overtakes": 168
+    },
+    {
+      "event": "Emilia Romagna Grand Prix",
+      "round": 7,
+      "processional_index": 86,
+      "pass_rate": 0.19221,
+      "total_overtakes": 232
+    },
+    {
+      "event": "Canadian Grand Prix",
+      "round": 10,
+      "processional_index": 86,
+      "pass_rate": 0.19051,
+      "total_overtakes": 257
+    },
+    {
+      "event": "Italian Grand Prix",
+      "round": 16,
+      "processional_index": 84,
+      "pass_rate": 0.19795,
+      "total_overtakes": 193
+    },
+    {
+      "event": "Chinese Grand Prix",
+      "round": 2,
+      "processional_index": 82,
+      "pass_rate": 0.20845,
+      "total_overtakes": 222
+    },
+    {
+      "event": "Spanish Grand Prix",
+      "round": 9,
+      "processional_index": 79,
+      "pass_rate": 0.22444,
+      "total_overtakes": 270
+    },
+    {
+      "event": "Austrian Grand Prix",
+      "round": 11,
+      "processional_index": 79,
+      "pass_rate": 0.22183,
+      "total_overtakes": 250
+    },
+    {
+      "event": "Mexico City Grand Prix",
+      "round": 20,
+      "processional_index": 75,
+      "pass_rate": 0.24228,
+      "total_overtakes": 306
+    },
+    {
+      "event": "Qatar Grand Prix",
+      "round": 23,
+      "processional_index": 72,
+      "pass_rate": 0.25305,
+      "total_overtakes": 270
+    },
+    {
+      "event": "Abu Dhabi Grand Prix",
+      "round": 24,
+      "processional_index": 65,
+      "pass_rate": 0.28633,
+      "total_overtakes": 331
+    },
+    {
+      "event": "S\u00e3o Paulo Grand Prix",
+      "round": 21,
+      "processional_index": 60,
+      "pass_rate": 0.30536,
+      "total_overtakes": 382
+    },
+    {
+      "event": "British Grand Prix",
+      "round": 12,
+      "processional_index": 51,
+      "pass_rate": 0.34746,
+      "total_overtakes": 287
+    },
+    {
+      "event": "Bahrain Grand Prix",
+      "round": 4,
+      "processional_index": 0,
+      "pass_rate": 0.57624,
+      "total_overtakes": 650
+    }
+  ],
+  "driver_passing": [
+    {
+      "driver": "OCO",
+      "team": "Haas F1 Team",
+      "passes_made": 368,
+      "positions_gained_net": 56
+    },
+    {
+      "driver": "ALB",
+      "team": "Williams",
+      "passes_made": 361,
+      "positions_gained_net": 38
+    },
+    {
+      "driver": "STR",
+      "team": "Aston Martin",
+      "passes_made": 350,
+      "positions_gained_net": 39
+    },
+    {
+      "driver": "HUL",
+      "team": "Kick Sauber",
+      "passes_made": 347,
+      "positions_gained_net": 48
+    },
+    {
+      "driver": "BEA",
+      "team": "Haas F1 Team",
+      "passes_made": 343,
+      "positions_gained_net": 54
+    },
+    {
+      "driver": "ANT",
+      "team": "Mercedes",
+      "passes_made": 322,
+      "positions_gained_net": -31
+    },
+    {
+      "driver": "GAS",
+      "team": "Alpine",
+      "passes_made": 309,
+      "positions_gained_net": -22
+    },
+    {
+      "driver": "RUS",
+      "team": "Mercedes",
+      "passes_made": 306,
+      "positions_gained_net": -5
+    },
+    {
+      "driver": "TSU",
+      "team": "Red Bull Racing",
+      "passes_made": 300,
+      "positions_gained_net": -1
+    },
+    {
+      "driver": "SAI",
+      "team": "Williams",
+      "passes_made": 297,
+      "positions_gained_net": -30
+    },
+    {
+      "driver": "LAW",
+      "team": "Racing Bulls",
+      "passes_made": 288,
+      "positions_gained_net": -17
+    },
+    {
+      "driver": "ALO",
+      "team": "Aston Martin",
+      "passes_made": 282,
+      "positions_gained_net": -47
+    },
+    {
+      "driver": "HAM",
+      "team": "Ferrari",
+      "passes_made": 276,
+      "positions_gained_net": 33
+    },
+    {
+      "driver": "BOR",
+      "team": "Kick Sauber",
+      "passes_made": 263,
+      "positions_gained_net": -7
+    },
+    {
+      "driver": "HAD",
+      "team": "Racing Bulls",
+      "passes_made": 258,
+      "positions_gained_net": -53
+    },
+    {
+      "driver": "COL",
+      "team": "Alpine",
+      "passes_made": 223,
+      "positions_gained_net": 5
+    },
+    {
+      "driver": "LEC",
+      "team": "Ferrari",
+      "passes_made": 215,
+      "positions_gained_net": -21
+    },
+    {
+      "driver": "VER",
+      "team": "Red Bull Racing",
+      "passes_made": 208,
+      "positions_gained_net": -2
+    },
+    {
+      "driver": "NOR",
+      "team": "McLaren",
+      "passes_made": 174,
+      "positions_gained_net": -14
+    },
+    {
+      "driver": "PIA",
+      "team": "McLaren",
+      "passes_made": 153,
+      "positions_gained_net": -13
+    },
+    {
+      "driver": "DOO",
+      "team": "Alpine",
+      "passes_made": 67,
+      "positions_gained_net": -10
+    }
+  ],
+  "notes": {
+    "method": "Position time-series pass detection with cooldown; DRS share proxy when available.",
+    "drs_note": "DRS share proxy unavailable for some/all races due car_data alignment limits."
+  }
+}

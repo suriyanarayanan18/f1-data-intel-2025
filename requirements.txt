@@ -1,0 +1,9 @@
+fastf1
+pandas
+numpy
+requests
+matplotlib
+seaborn
+jupyter
+pyarrow
+tqdm
