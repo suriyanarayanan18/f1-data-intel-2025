@@ -425,9 +425,9 @@ function App() {
       <main className='report-main'>
         <motion.section id='intro' className={`report-section intro ${activeSection === 'intro' ? 'is-active' : ''}`} initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
           <div className='section-head'>
-            <p className='kicker'>Editorial Report</p>
+            <p className='kicker'>Season Report</p>
             <h2>Season performance, translated into momentum, pace and passing intelligence.</h2>
-            <p>Editorial pacing with dense headlines, visual rhythm, and interactive chapter flow. Use the chapter rail, keyboard arrows, or scroll to navigate.</p>
+            <p>The story the broadcast didn't tell you.</p>
           </div>
           <div className='media-row'>
             <article className='media-card'><MediaTile candidates={getDriverImage(topDrivers[0]?.driver || 'NOR')} label={topDrivers[0]?.driver || 'Driver'} sublabel='Driver portrait' /></article>
@@ -516,3 +516,4 @@ function App() {
 }
 
 export default App
+
